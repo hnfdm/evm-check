@@ -24,4 +24,9 @@ module.exports = {
   SYMBOL4: "ETH BASE Sepolia",
   TX_EXPLORER4: "",
   ADDRESS_EXPLORER4: "",
+  RPC_URL5: "",
+  CHAIN_ID5: ,
+  SYMBOL5: "ETH UNI Sepolia",
+  TX_EXPLORER5: "",
+  ADDRESS_EXPLORER5: "",
 };
