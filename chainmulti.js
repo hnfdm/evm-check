@@ -29,4 +29,9 @@ module.exports = {
   SYMBOL5: "UNI Sepolia",
   TX_EXPLORER5: "https://unichain-sepolia.blockscout.com/tx/",
   ADDRESS_EXPLORER5: "https://unichain-sepolia.blockscout.com/address/",
+  RPC_URL6: "https://rpc.ankr.com/gravity",
+  CHAIN_ID6: 1625,
+  SYMBOL6: "G",
+  TX_EXPLORER6: "https://explorer.gravity.xyz/tx/",
+  ADDRESS_EXPLORER6: "https://explorer.gravity.xyz/address/",
 };
