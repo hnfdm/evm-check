@@ -34,4 +34,9 @@ module.exports = {
   SYMBOL6: "G",
   TX_EXPLORER6: "https://explorer.gravity.xyz/tx/",
   ADDRESS_EXPLORER6: "https://explorer.gravity.xyz/address/",
+  RPC_URL7: "https://api.infra.mainnet.somnia.network/",
+  CHAIN_ID7: 2031,
+  SYMBOL7: "SOMI",
+  TX_EXPLORER7: "https://scan.somnia.network/tx/",
+  ADDRESS_EXPLORER7: "https://scan.somnia.network/address/",
 };
