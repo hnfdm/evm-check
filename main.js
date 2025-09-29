@@ -19,6 +19,7 @@ const provider0 = new ethers.providers.JsonRpcProvider(chain.RPC_URL0, chain.CHA
 //const provider4 = new ethers.providers.JsonRpcProvider(chain.RPC_URL4, chain.CHAIN_ID4);
 //const provider5 = new ethers.providers.JsonRpcProvider(chain.RPC_URL5, chain.CHAIN_ID5);
 const provider6 = new ethers.providers.JsonRpcProvider(chain.RPC_URL6, chain.CHAIN_ID6);
+const provider7 = new ethers.providers.JsonRpcProvider(chain.RPC_URL7, chain.CHAIN_ID7);
 
 // Array of providers and their corresponding chain symbols
 const providers = [
@@ -29,6 +30,7 @@ const providers = [
   { provider: provider4, symbol: chain.SYMBOL4 },
   { provider: provider5, symbol: chain.SYMBOL5 },
   { provider: provider6, symbol: chain.SYMBOL6 },
+  { provider: provider7, symbol: chain.SYMBOL7 },
 ];
 
 async function checkBalances() {
